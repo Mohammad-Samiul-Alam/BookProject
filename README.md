@@ -1,8 +1,8 @@
 Important: 
-<p>Run composer install</p>
+<p>1. Run composer install</p>
 
-Copy .env.example to .env
+2. Copy .env.example to .env
 
-Set up their own environment variables
+3. Set up their own environment variables
 
-Run php artisan key:generate
+4. Run php artisan key:generate
